@@ -1,3 +1,4 @@
+// you can find variables on host (this case localhost:8080)/en-vars.html
 CODE_CHANGES = getGitChanges() // can be define with groovy. 
 pipeline {
   
